@@ -78,3 +78,7 @@ This task helped me understand how companies today don’t always use just one c
 #OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/ab8301f1-904a-462b-be37-012d6f47ac92)
+
+![Image](https://github.com/user-attachments/assets/1c5fd24e-5926-45c7-bce8-a9de6d2b2e1c)
+
+![Image](https://github.com/user-attachments/assets/a82180cf-ad99-4141-b088-e07edb7db28b)

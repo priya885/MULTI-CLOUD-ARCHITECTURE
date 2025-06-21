@@ -23,8 +23,8 @@ For this task, I mainly used Google Cloud Platform (GCP) to build and demonstrat
 # Objective of the Task
 The main aim was to design and understand a multi-cloud setup, where services are not limited to one cloud platform. Instead, they are distributed and can work across two cloud providers. While I worked hands-on with Google Cloud, I also studied how I could connect it to other platforms like AWS or Azure. The task required submitting a documentation and a demo or screenshots to show how the setup works.
 
-# Step-by-Step Work
-*Step 1*: Learning the Basics
+# *Step 1*: Learning the Basics
+
 First, I began with the course Google Cloud Fundamentals, which helped me understand core services like Cloud Storage and Cloud SQL. I learned how to:
 
 Create and manage storage buckets
@@ -37,7 +37,8 @@ Create and manage SQL database instances using Cloud SQL
 
 This course gave me a strong base to work on cloud projects.
 
-*Step 2*: Building in Google Cloud
+# *Step 2*: Building in Google Cloud
+
 Next, I applied what I learned:
 
 I created a Cloud Storage bucket to upload a sample file
@@ -50,7 +51,8 @@ I explored connection methods like authorized networks and SQL users
 
 These actions showed me how storage and database services work together in the cloud. I took screenshots of my setup as proof.
 
-*Step 3*: Designing Multi-Cloud Architecture
+# *Step 3*: Designing Multi-Cloud Architecture
+
 Although I couldn’t fully deploy services on another platform due to account limits, I studied how Google Cloud services can be made to work with another cloud like AWS. For example:
 
 A frontend hosted on AWS could send data to a Cloud SQL database on GCP
